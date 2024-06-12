@@ -1,6 +1,7 @@
 
 
-A new Flutter project.
+Notary App 
+<img src="https://github.com/AbhishekPrajapati3/notary/blob/main/lib/notary.png" />
 
 ## Getting Started
 
